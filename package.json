@@ -1,0 +1,26 @@
+{
+  "name": "eloquent",
+  "version": "1.0.0",
+  "description": "Exercises from Eloquent JavaScript, 3rd edition",
+  "main": "sum.js",
+  "dependencies": {
+    "jest": "^23.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyssa0528/eloquent-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alyssa0528/eloquent-js/issues"
+  },
+  "homepage": "https://github.com/alyssa0528/eloquent-js#readme",
+  "scripts": {
+    "test": "jest"
+  }
+}
